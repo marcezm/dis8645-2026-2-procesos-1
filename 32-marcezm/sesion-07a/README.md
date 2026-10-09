@@ -446,3 +446,10 @@ Además, el código de Wokwi todavía lee directamente el GPIO con `gpio_get(7)`
 2. descargar todos los archivos de wokwi, descomprimir el archivo.zip y subir esa carpeta a tu repositorio en esta sesión.
 
 ## lectura
+Página 76
+>*En La existencia de los objetos digitales, trato con las relaciones formales y los objetos.*
+Un archivo, una imagen o una publicación no es solamente un elemento independiente, este también forma parte de una red de relaciones que influye en cómo aparece, circula y toma un significado.
+
+Página 78
+>*Esta forma de cuestionamiento no permite problematizar muchas definiciones ambiguas que a menudo se dan por sentadas.*
+Quizás muchas veces aceptamos ciertas ideas como si fueran verdades absolutas, sin detenernos a cuestionarlas, personalmente me parece importante aprender a mirar las cosas desde otras perspectivas y no quedarnos solamente con la primera explicación que encontramos.
