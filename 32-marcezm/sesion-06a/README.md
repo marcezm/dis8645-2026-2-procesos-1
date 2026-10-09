@@ -230,15 +230,7 @@ Página 69
 
 Esta cita nos invita a ir más allá de lo evidente y a cuestionar los sistemas que utilizamos para organizar la información. El autor demuestra que categorizar objetos digitales no es solo un acto de ordenamiento, sino un proceso que nos obliga a preguntarnos cómo construimos esas categorías y qué papel desempeñan en nuestra manera de comprender el mundo.
 
-Página
+Página 74
 >*Idea del fragmento: la relación entre la sintaxis, la semántica y la capacidad de las máquinas para procesar el lenguaje.*
 
-**Opción 1 (Directa y fluida):**
-
-Este fragmento analiza la relación entre la sintaxis, la semántica y la capacidad de las máquinas para procesar el lenguaje. Me resulta muy interesante porque plantea un debate clave sobre la inteligencia artificial: que una máquina pueda seguir las reglas del lenguaje y dar respuestas coherentes no significa que comprenda de verdad su significado, como sí lo hace una persona.
-
----
-
-**Opción 2 (Aún más concisa):**
-
-Al explorar la relación entre sintaxis y semántica en el procesamiento del lenguaje, cuestiona una idea muy presente en la IA actual, demuestra que existe una gran diferencia entre procesar palabras para generar respuestas con sentido y entender verdaderamente lo que se está diciendo.
+Aquí el texto cuestiona una idea muy presente en la IA actual, demuestra que existe una gran diferencia entre procesar palabras para generar respuestas con sentido y entender verdaderamente lo que se está diciendo.
